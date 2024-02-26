@@ -10,5 +10,5 @@
 - [x] Hacker Rank
 
 ## Our Members
-- [@Sung Chul Park](https://github.com/manu1307)
-- [@jayM-Oh](https://github.com/JayM-Oh)
+- [Sung Chul Park](https://github.com/manu1307)
+- [jayM-Oh](https://github.com/JayM-Oh)
