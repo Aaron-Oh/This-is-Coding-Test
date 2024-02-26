@@ -1,6 +1,6 @@
-####################
-#### 숫자 카드 게임 ####
-####################
+###################################
+#### Minimum card number game  ####
+###################################
 import sys
 input = sys.stdin.readline
 
@@ -12,7 +12,7 @@ def getUserInput():
     else: raise Exception("Invalid Input")
 
 def isValidInput(n:int, m:int, arr:list) -> bool:
-    if not (2 <= n <= 100 and 2 <= m <= 100): return False
+    if not (2 <= n, m <= 100): return False
     for i in range(n):
         for j in range(m):
             if not (1 <= arr[i][j] <= 10000): return False
