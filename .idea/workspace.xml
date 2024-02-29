@@ -370,7 +370,7 @@
       <workItem from="1702809596875" duration="1979000" />
       <workItem from="1708925167599" duration="7741000" />
       <workItem from="1708933223133" duration="457000" />
-      <workItem from="1708988005535" duration="1507000" />
+      <workItem from="1708988005535" duration="1927000" />
     </task>
     <servers />
   </component>
@@ -383,7 +383,7 @@
     <SUITE FILE_PATH="coverage/pythonProject$1269.coverage" NAME="1269 Coverage Results" MODIFIED="1701657061320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$test.coverage" NAME="test Coverage Results" MODIFIED="1702118478237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/This_is_Coding_Test$jay_solution__1_.coverage" NAME="jay_solution (1) Coverage Results" MODIFIED="1708932911067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/This-is-Coding-Test/chap03-Greedy/3-2" />
-    <SUITE FILE_PATH="coverage/Algorithm_Projects$jay_solution__3_.coverage" NAME="jay_solution (3) Coverage Results" MODIFIED="1708989493765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/This-is-Coding-Test/chap03-Greedy/3-4" />
+    <SUITE FILE_PATH="coverage/Algorithm_Projects$jay_solution__3_.coverage" NAME="jay_solution (3) Coverage Results" MODIFIED="1708989861782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/This-is-Coding-Test/chap03-Greedy/3-4" />
     <SUITE FILE_PATH="coverage/pythonProject$problem1.coverage" NAME="problem1 Coverage Results" MODIFIED="1700378393914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$1874.coverage" NAME="1874 Coverage Results" MODIFIED="1701658722592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/This_is_Coding_Test$jay_solution.coverage" NAME="jay_solution Coverage Results" MODIFIED="1708930598132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/This-is-Coding-Test/ch03-Greedy/3-1" />
